@@ -1,0 +1,6 @@
+State = SARAWAK, DOE = PPD DARO, Level = Menengah, Category = SK, School Type = SMK, Location = Luar Bandar, Inland = P1, School Code = YEAB301, School Name = SEKOLAH MENENGAH KEBANGSAAN SEMOP, Source = Janakuasa Sekolah > 5 kVA
+State = SARAWAK, DOE = PPD DARO, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P3, School Code = YBB3214, School Name = SEKOLAH KEBANGSAAN SUNGEI PASSIN, Source = Janakuasa Sekolah = 5 kVA
+State = SARAWAK, DOE = PPD JULAU, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P3, School Code = YBB6225, School Name = SEKOLAH KEBANGSAAN NANGA JAMBU, Source = Janakuasa Sekolah > 5 kVA
+State = SARAWAK, DOE = PPD MIRI, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P2, School Code = YBB4353, School Name = SEKOLAH KEBANGSAAN SG. LAONG, Source = Janakuasa Sekolah > 5 kVA
+State = SARAWAK, DOE = PPD MIRI, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P2, School Code = YBB4358, School Name = SEKOLAH KEBANGSAAN SG. BAKAS, Source = Janakuasa Sekolah > 5 kVA
+State = SARAWAK, DOE = PPD MIRI, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P3, School Code = YBB4345, School Name = SEKOLAH KEBANGSAAN SG. SEPUTI, Source = Janakuasa Sekolah > 5 kVA

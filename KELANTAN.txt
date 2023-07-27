@@ -1,0 +1,2 @@
+State = KELANTAN, DOE = PPD GUA MUSANG, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P2, School Code = DBAA003, School Name = SEKOLAH KEBANGSAAN HENDROP, Source = Janakuasa Sekolah < 5 kVA
+State = KELANTAN, DOE = PPD GUA MUSANG, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P2, School Code = DBAA004, School Name = SEKOLAH KEBANGSAAN POS BROOKE, Source = Janakuasa Sekolah = 5 kVA

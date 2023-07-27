@@ -1,0 +1,2 @@
+State = PERAK, DOE = PPD BATANG PADANG, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P2, School Code = ABA0127, School Name = SEKOLAH KEBANGSAAN POS MUSUH LZ, Source = Janakuasa Sekolah = 5 kVA
+State = PERAK, DOE = PPD KINTA UTARA, Level = Menengah, Category = SBK, School Type = SM SABK, Location = Bandar, Inland = TIDAK, School Code = AFA2002, School Name = SEKOLAH IZZUDDIN SHAH, Source = Janakuasa Sekolah > 5 kVA

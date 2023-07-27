@@ -1,0 +1,1 @@
+State = JOHOR, DOE = PPD MERSING, Level = Rendah, Category = SK, School Type = SK, Location = Luar Bandar, Inland = P2, School Code = JBA4030, School Name = SEKOLAH KEBANGSAAN PETA, Source = Janakuasa Sekolah > 5 kVA
